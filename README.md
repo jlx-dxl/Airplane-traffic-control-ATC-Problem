@@ -1,4 +1,4 @@
-![Demo](max_delay_750.gif)
+![Demo](max_delay_700.gif)
 
 The Airplane Traffic Control (ATC) project aims to develop a strategy for managing airplane navigation in a simulated environment. The primary goal is to ensure all planes reach their destinations as quickly as possible while avoiding collisions and minimizing delays and power consumption. Each plane's journey is defined by its origin and destination coordinates, and its departure time, specified in a configuration file. The simulation operates in a 2D Cartesian space where planes can only move horizontally and vertically, adhering to specific movement constraints to avoid collisions.
 
